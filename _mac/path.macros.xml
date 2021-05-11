@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/sy/bx14pzr57955f1c63d2h61jc0000gn/T/AppTranslocation/CD9F7B94-7474-4964-89C1-D50D94CF6697/d/Android Studio.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/sy/bx14pzr57955f1c63d2h61jc0000gn/T/AppTranslocation/53C824BD-90D4-43DD-B05B-213344E5C98B/d/Android Studio.app/Contents/plugins/Kotlin/kotlinc" />
     <macro name="Node" value="/Users/pradeetswamy/.nvm/versions/node/v10.16.0/bin" />
   </component>
 </application>
